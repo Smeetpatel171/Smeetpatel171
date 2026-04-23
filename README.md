@@ -21,14 +21,6 @@ Currently exploring: RAG pipelines, agentic workflows, LangChain, LangGraph, vec
 
 **Databases:** PostgreSQL, MongoDB, Redis, DynamoDB
 
-## Selected work
-
-🔹 **[AI Project Name]** — RAG chatbot with PDF ingestion, semantic search, and conversation memory. *LangChain + Pinecone + Next.js* → [coming soon]
-
-🔹 **QCAM** — Patented camera app backend — subscription lifecycle, automated payments, referral rewards engine. *NestJS + AWS*
-
-🔹 **FlexiDrive** — Uber-style ride platform with real-time driver-user tracking. *WebSocket + Node.js + React*
-
 ## Currently learning
 
 → AI Application Engineering (RAG, agents, evals, tool calling)
