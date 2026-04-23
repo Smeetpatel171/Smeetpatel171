@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Smeet 👋
 
 **Full-Stack Engineer → AI Application Engineer**
 
