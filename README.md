@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer → AI Application Engineer**
 
-2.5+ years building production software. Currently leading engineering at a 15-member team. Now going deep into AI engineering — LLMs, RAG, agents, and everything in between.
+5+ years building production software. Currently leading engineering at a 15-member team. Now going deep into AI engineering — LLMs, RAG, agents, and everything in between.
 
 ## What I'm building right now
 
