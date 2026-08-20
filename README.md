@@ -168,18 +168,6 @@ Topics I’m actively working with:
 
 ---
 
-## 🏗️ What I'm Building
-
-### 100 Days of AI Engineering
-
-Building and documenting practical AI projects focused on turning Generative AI concepts into production-ready systems.
-
-Current areas include:
-
-`RAG` → `AI Agents` → `Agentic Workflows` → `Vector Databases` → `LLM APIs` → `Evaluation` → `Production Deployment`
-
----
-
 ## 🤝 Let's Connect
 
 I enjoy working on technically challenging products involving:
